@@ -1,5 +1,10 @@
 # HOSCfg — MIUI Home Customizer
 
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-purple?logo=kotlin)
+![Xposed API](https://img.shields.io/badge/Xposed%20API-101-blue)
+![AGP](https://img.shields.io/badge/AGP-8.2.2-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Xposed module for customizing MIUI Home (launcher) drawer on HyperOS.
 
 ## Features
